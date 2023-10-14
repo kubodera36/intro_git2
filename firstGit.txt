@@ -1,2 +1,5 @@
 git training
 good
+
+git add 
+git commit
